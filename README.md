@@ -43,8 +43,6 @@
 
 * [OsmAnd](https://osmand.net/) - Application complète de cartes et navigation hors-ligne et open-source.
 
-
-
 ### Logiciels
 
 * [KeePass](https://keepass.info/) - Gestionnaire de mots de passe open-source complet.
@@ -53,7 +51,17 @@
 
 * [Everything](https://www.voidtools.com/) - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est.
 
+* [TeamViewer]([TeamViewer – Télé-assistance, accès à distance, Servicedesk, réunions et collaboration en ligne](https://www.teamviewer.com/fr/)) - Accès à un ordinateur à distance (pour aider quelqu'un par exemple).
 
+* [Tor](https://www.torproject.org/) - Pour être anonyme sur internet, contourner la censure et accéder au "deep-web".
+
+* [VirtualBox](https://www.virtualbox.org/) - Permet de créer des PCs virtuels dans son ordinateur (avoir Linux sur Windows par exemple).
+
+* [Audacity](https://audacity.fr/) - Logiciel d'édition audio open-source (oui, celui qu'il y avait dans ton collège).
+
+* [Ditto](https://ditto-cp.sourceforge.io/) - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard.
+
+* [Microsoft PowerToys]([Microsoft PowerToys | Microsoft Docs](https://docs.microsoft.com/en-us/windows/powertoys/)) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
 ##### Developpement
 
@@ -62,3 +70,20 @@
 * [Mark Text](https://marktext.app/) - Éditeur Markdown épuré et complet (je l'utilise pour créer ce document :wink:)
 
 * [Pencil](https://pencil.evolus.vn/) - Logiciel open-source de création de maquettes et mockups.
+
+* [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
+
+* [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain.
+
+##### Nettoyage
+
+* [AdwCleaner]([AdwCleaner – utilitaire gratuit de nettoyage et suppression d'adware | Malwarebytes](https://fr.malwarebytes.com/adwcleaner/)) - Enlève les malwares et les programmes indésirables.
+
+* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner]([T&#233;l&#233;charger CCleaner | Nettoyez et optimisez votre PC gratuitement !](https://www.ccleaner.com/fr-fr/ccleaner/download)) mais moins "usine à gaz".
+
+* [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
+
+##### Image / Vidéo
+
+* [GIMP]([GIMP - Downloads](https://www.gimp.org/downloads/)) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
+* [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
