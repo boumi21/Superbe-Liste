@@ -63,6 +63,10 @@
 
 * [Microsoft PowerToys]([Microsoft PowerToys | Microsoft Docs](https://docs.microsoft.com/en-us/windows/powertoys/)) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
+* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR]([WinRAR download free and support: WinRAR](https://www.win-rar.com/start.html?&L=10)).
+
+* [VLC]([Téléchargement officiel du lecteur multimédia VLC, le meilleur lecteur Open Source - VideoLAN](https://www.videolan.org/vlc/index.fr.html)) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:.
+
 ##### Developpement
 
 * [PuTTY](https://www.putty.org/) - Client SSH simple et efficace.
@@ -74,6 +78,14 @@
 * [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain.
+
+* [ngrok](https://ngrok.com/) - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
+
+* [FileZilla](https://filezilla-project.org/) - Lociel FTP open-source.
+
+* [Sublime Text](https://www.sublimetext.com/) - Éditeur de texte / code simple et puissant.
+
+* [Windows Terminal]([Recevoir Windows Terminal - Microsoft Store fr-FR](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
 ##### Nettoyage
 
