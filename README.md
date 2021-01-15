@@ -47,11 +47,11 @@
 
 * [KeePass](https://keepass.info/) - Gestionnaire de mots de passe open-source complet.
 
-* [SD Memory Card Formater]([SD Memory Card Formatter - SD Association](https://www.sdcard.org/downloads/formatter/)) - Formatte des cartes SD correcetement lorsque celui de Windows fait des siennes.
+* [SD Memory Card Formater]((https://www.sdcard.org/downloads/formatter/)) - Formatte des cartes SD correcetement lorsque celui de Windows fait des siennes.
 
 * [Everything](https://www.voidtools.com/) - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est.
 
-* [TeamViewer]([TeamViewer – Télé-assistance, accès à distance, Servicedesk, réunions et collaboration en ligne](https://www.teamviewer.com/fr/)) - Accès à un ordinateur à distance (pour aider quelqu'un par exemple).
+* [TeamViewer](https://www.teamviewer.com/fr/) - Accès à un ordinateur à distance (pour aider quelqu'un par exemple).
 
 * [Tor](https://www.torproject.org/) - Pour être anonyme sur internet, contourner la censure et accéder au "deep-web".
 
@@ -61,11 +61,11 @@
 
 * [Ditto](https://ditto-cp.sourceforge.io/) - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard.
 
-* [Microsoft PowerToys]([Microsoft PowerToys | Microsoft Docs](https://docs.microsoft.com/en-us/windows/powertoys/)) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
+* [Microsoft PowerToys]((https://docs.microsoft.com/en-us/windows/powertoys/)) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
 * [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR]([WinRAR download free and support: WinRAR](https://www.win-rar.com/start.html?&L=10)).
 
-* [VLC]([Téléchargement officiel du lecteur multimédia VLC, le meilleur lecteur Open Source - VideoLAN](https://www.videolan.org/vlc/index.fr.html)) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:.
+* [VLC]((https://www.videolan.org/vlc/index.fr.html)) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:.
 
 ##### Developpement
 
@@ -85,17 +85,17 @@
 
 * [Sublime Text](https://www.sublimetext.com/) - Éditeur de texte / code simple et puissant.
 
-* [Windows Terminal]([Recevoir Windows Terminal - Microsoft Store fr-FR](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
+* [Windows Terminal]((https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab)) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
 ##### Nettoyage
 
-* [AdwCleaner]([AdwCleaner – utilitaire gratuit de nettoyage et suppression d'adware | Malwarebytes](https://fr.malwarebytes.com/adwcleaner/)) - Enlève les malwares et les programmes indésirables.
+* [AdwCleaner]((https://fr.malwarebytes.com/adwcleaner/)) - Enlève les malwares et les programmes indésirables.
 
-* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner]([T&#233;l&#233;charger CCleaner | Nettoyez et optimisez votre PC gratuitement !](https://www.ccleaner.com/fr-fr/ccleaner/download)) mais moins "usine à gaz".
+* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner]((https://www.ccleaner.com/fr-fr/ccleaner/download)) mais moins "usine à gaz".
 
 * [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
 
 ##### Image / Vidéo
 
-* [GIMP]([GIMP - Downloads](https://www.gimp.org/downloads/)) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
+* [GIMP]((https://www.gimp.org/downloads/)) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
 * [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
