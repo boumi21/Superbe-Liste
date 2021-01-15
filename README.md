@@ -63,7 +63,7 @@
 
 * [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
-* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR]([WinRAR download free and support: WinRAR](https://www.win-rar.com/start.html?&L=10)).
+* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10).
 
 * [VLC](https://www.videolan.org/vlc/index.fr.html) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:.
 
@@ -91,7 +91,7 @@
 
 * [AdwCleaner](https://fr.malwarebytes.com/adwcleaner/) - Enlève les malwares et les programmes indésirables.
 
-* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner]((https://www.ccleaner.com/fr-fr/ccleaner/download)) mais moins "usine à gaz".
+* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner](https://www.ccleaner.com/fr-fr/ccleaner/download) mais moins "usine à gaz".
 
 * [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
 
