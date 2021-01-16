@@ -1,8 +1,10 @@
 # Superbe-Liste
 
-### Extensions
+---
 
-* [uBlock](https://github.com/gorhill/uBlock) - Le meilleur bloqueur de pubs / malwares pour navigateur (oui, mieux que adBlock).
+## <u>Extensions</u>
+
+* [uBlock](https://github.com/gorhill/uBlock) - Le meilleur bloqueur de pubs / malwares pour navigateur (oui, mieux que adBlock). :fire:
 
 * [SponsorBlock](https://sponsor.ajay.app/) - Bloque les placements de produits sur Youtube, enrichit par la communauté.
 
@@ -14,7 +16,7 @@
 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) - Permet de sauvegarder ses sessions et ses onglets pour plus tard.
 
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - Vous en avez marre des popups qui vous demandent d'accepter les cookies ? Maintenant c'est réglé.
+* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - Vous en avez marre des popups qui vous demandent d'accepter les cookies ? Maintenant c'est réglé. :fire:
 
 * [Keepa](https://keepa.com) - Tracker de prix pour Amazon. Graphique de l'évolution du prix pour chaque produit et possibilité de créer des alertes.
 
@@ -22,18 +24,18 @@
 
 * [Imagus](https://drive.google.com/drive/folders/0Bx8fnUCX4W2IUTNPT0s2eUFDQms) - Affiche les images en grand au survol de la souris. ([lien Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr)) ([lien Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/))
 
-### Applications mobiles
+## <u>Applications mobiles</u>
 
 * [Shazam](https://www.shazam.com/fr) - Reconnaît une musique en quelques secondes en l'écoutant.
 
 * [Youtube Vanced](https://vancedapp.com/) - Youtube mais en mieux. </br>
-  Pas de pub, possibilité de lire les vidéos l'écran éteint ou en fond, intégration de SponsorBlock et plus.
+  Pas de pub, possibilité de lire les vidéos l'écran éteint ou en fond, intégration de SponsorBlock et plus. :fire:
 
 > #### @icon-info-circle Information concernant Youtube Vanced
 > 
 > Youtube Vanced se télécharge et se met à jour grâce à [Vanced Manager](https://vancedapp.com/) (car l'application n'est pas disponible sur le Play Store). Vanced Manager contient également une version modifiée de Youtube Music.
 
-* [AdGuard](https://adguard.com/fr/adguard-android/overview.html) - Meilleur bloqueur de pubs pour Android. Bloque les pubs dans les navigateurs et également dans les applications (Achat d'une licence nécessaire pour bloquer les pubs dans les applications mais vraiment ça change la vie).
+* [AdGuard](https://adguard.com/fr/adguard-android/overview.html) - Meilleur bloqueur de pubs pour Android. Bloque les pubs dans les navigateurs et également dans les applications (Achat d'une licence nécessaire pour bloquer les pubs dans les applications mais vraiment ça change la vie). :fire:
 
 * [fooView](http://www.fooview.com/) - Ajoute un petit icône sur l'écran qui permet d'éxécuter des tâches (lancer des applications, prendre des screenshots, filmer son écran...)
 
@@ -43,13 +45,13 @@
 
 * [OsmAnd](https://osmand.net/) - Application complète de cartes et navigation hors-ligne et open-source.
 
-### Logiciels
+## <u>Logiciels</u>
 
-* [KeePass](https://keepass.info/) - Gestionnaire de mots de passe open-source complet.
+* [KeePassXC](https://keepassxc.org/) - Portage du gestionnaire de mots de passe open-source complet [KeePass](https://keepass.info/). A utiliser avec [l'extension de navigateur](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration) pour remplir automatiquement les identifiants.
 
 * [SD Memory Card Formater](https://www.sdcard.org/downloads/formatter/) - Formatte des cartes SD correcetement lorsque celui de Windows fait des siennes.
 
-* [Everything](https://www.voidtools.com/) - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est.
+* [Everything](https://www.voidtools.com/) - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est. :fire:
 
 * [TeamViewer](https://www.teamviewer.com/fr/) - Accès à un ordinateur à distance (pour aider quelqu'un par exemple).
 
@@ -59,15 +61,17 @@
 
 * [Audacity](https://audacity.fr/) - Logiciel d'édition audio open-source (oui, celui qu'il y avait dans ton collège).
 
-* [Ditto](https://ditto-cp.sourceforge.io/) - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard.
+* [Ditto](https://ditto-cp.sourceforge.io/) - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard. :fire:
 
 * [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
-* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10).
+* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10). :fire:
 
-* [VLC](https://www.videolan.org/vlc/index.fr.html) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:.
+* [VLC](https://www.videolan.org/vlc/index.fr.html) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:. :fire:
 
-##### Developpement
+* [qBittorrent](https://www.qbittorrent.org/) - Client open-source pour le téléchargement de torrents.
+
+### Developpement
 
 * [PuTTY](https://www.putty.org/) - Client SSH simple et efficace.
 
@@ -77,7 +81,7 @@
 
 * [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain.
+* [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain. :fire:
 
 * [ngrok](https://ngrok.com/) - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
 
@@ -87,7 +91,7 @@
 
 * [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
-##### Nettoyage
+### Nettoyage
 
 * [AdwCleaner](https://fr.malwarebytes.com/adwcleaner/) - Enlève les malwares et les programmes indésirables.
 
@@ -95,7 +99,56 @@
 
 * [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
 
-##### Image / Vidéo
+### Image / Vidéo
 
 * [GIMP](https://www.gimp.org/downloads/) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
 * [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
+
+## <u>Sites web</u>
+
+### Fun
+
+* [The Internet map](http://internet-map.net/) - Carte des sites internet sous forme de points.
+* [Fake Name Generator](https://www.fakenamegenerator.com) - Génère l'identité d'une personne au hasard.
+* [Passport Index](https://www.passportindex.org/) - Pour découvrir les passeports du monde entier.
+* [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) - Que se passe t'il si une bombe nucléaire expose où j'habite ?
+* [Listen to Wikipedia](http://listen.hatnote.com/) - Permet de visualiser les changements sur Wikipedia de manière intéressante.
+* [Windows 93](http://www.windows93.net) - Un Windows ... différent.
+
+### Cartes
+
+* [My Maps](https://www.google.com/maps/d/?hl=fr) - Créer des circuits, points d'intérêt avec Google Map.
+
+* [Windy](https://www.windy.com) - Carte des vents et météo très agréable.
+
+* [MAPFrappe](http://mapfrappe.com/?show=4857) - Permet de comparer la taille de distances / zones en prenant en compte la projection de Mercator.
+  
+  > mapfrappe.com ne fonctionne plus. Il faut utiliser un lien de la forme mapfrappe.com/?show=4857 pour accéder au service.
+
+### DIY
+
+* [instructables](https://www.instructables.com/)- Communauté de projets DIY à explorer.
+
+### Jeux vidéos
+
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Wiki du contenu inutilisé dans les jeux vidéos.
+
+### Moteurs de recherche
+
+* [TinEye](https://tineye.com/) - Recherche par image (alternative à [Google Images](https://www.google.com/imghp?hl=FR)).
+* [WolframAlpha](https://www.wolframalpha.com/) - Moteur de recherche avec de l'intelligence artificielle.
+
+### Musique
+
+* [mobygratis](https://mobygratis.com/) - Musique gratuite à utiliser dans des films mise à disposition par [Moby](https://fr.wikipedia.org/wiki/Moby)
+* [Music-Map](https://www.music-map.com/) - Trouve les artistes similaires à ceux qu'on aime. Fait parti du projet [GNOD](https://www.gnod.com/) qui peut faire découvrir de l'art ou encore des films.
+* [Radiooooo](https://radiooooo.com/) - Pour découvrir de la musique de différents pays et de différentes époques à l'aide d'une carte.
+* [Radio Garden](http://radio.garden) - Permet d'écouter des radios du monde entier à l'aide d'une carte.
+
+### Sécurité
+
+* [Have I Been Pwned](https://haveibeenpwned.com/) - Vérifie si des informations confidentielles liées à votre adresse email ont été compromies. Si c'est le cas, il est préférable de changer les mots de passe que vous utilisez sur les sites avec l'adresse email correspondante.
+
+### Utilitaires
+
+* [Cloud Convert](https://cloudconvert.com/) - Converti un type de fichier dans un autre type.
