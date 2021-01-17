@@ -114,6 +114,9 @@
 * [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) - Que se passe t'il si une bombe nucléaire expose où j'habite ?
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Permet de visualiser les changements sur Wikipedia de manière intéressante.
 * [Windows 93](http://www.windows93.net) - Un Windows ... différent.
+* [FutureMe](https://www.futureme.org/) - Pour s'écrire un mail et le recevoir dans le futur.
+* [You're getting old](http://you.regettingold.com) - Pour te montrer que le temps passe vite.
+* [GEEKTyper](https://geektyper.com/) - Pour faire croire que l'on est le plus grand hacker de tout les temps.
 
 ### Cartes
 
@@ -128,6 +131,7 @@
 ### DIY
 
 * [instructables](https://www.instructables.com/)- Communauté de projets DIY à explorer.
+* [Wonder How To](https://www.wonderhowto.com/) -  Tutoriels pour gadgets / informatique / science / crochetage...
 
 ### Jeux vidéos
 
@@ -137,6 +141,8 @@
 
 * [TinEye](https://tineye.com/) - Recherche par image (alternative à [Google Images](https://www.google.com/imghp?hl=FR)).
 * [WolframAlpha](https://www.wolframalpha.com/) - Moteur de recherche avec de l'intelligence artificielle.
+* [Mémoire des Hommes](https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/recherche_transversale/bases_nominatives.php) - Recherche dans les bases nominatives de l'armée Française. Permet de retrouver des informations sur des soldats décédés durant les guerres.
+* [L'argus](https://www.largus.fr/cote/immatriculation/) - Retrouve le modèle d'une voiture avec son immatriculation.
 
 ### Musique
 
@@ -144,6 +150,7 @@
 * [Music-Map](https://www.music-map.com/) - Trouve les artistes similaires à ceux qu'on aime. Fait parti du projet [GNOD](https://www.gnod.com/) qui peut faire découvrir de l'art ou encore des films.
 * [Radiooooo](https://radiooooo.com/) - Pour découvrir de la musique de différents pays et de différentes époques à l'aide d'une carte.
 * [Radio Garden](http://radio.garden) - Permet d'écouter des radios du monde entier à l'aide d'une carte.
+* [Every Noise](http://everynoise.com/) - Pour parcourir tous les styles de musique.
 
 ### Sécurité
 
@@ -152,3 +159,26 @@
 ### Utilitaires
 
 * [Cloud Convert](https://cloudconvert.com/) - Converti un type de fichier dans un autre type.
+* [Internet Archive](https://archive.org/) - Permet d'archiver des pages web pour les retrouver plus tard même si les pages n'existent plus ou au contraire retrouver des pages déjà supprimmées.
+* [AlternativeTo](https://alternativeto.net/) - Pour trouver des sites ou logiciels alternatifs (trouver l'équivalent d'un logiciel payant mais gratuit par exemple).
+* [123Apps](https://123apps.com/fr/) - Petits utilitaires en ligne pour l'audio, vidéo ou encore les PDFs.
+
+
+
+### Livres / Articles
+
+* [Library Genesis](http://libgen.rs/) :warning: - Accès gratuit à des articles scientifiques, livres et magazines (piratés).
+
+
+
+### Images / Logos / Vidéos
+
+* [PhotoMosh](https://photomosh.com/) - Pour appliquer des effets "glitch" rapidement.
+
+* [LogoSearch](https://logosear.ch) - Moteur de recherche pour logos de différents sites. Existe aussi pour les [icônes](https://iconsear.ch).
+
+
+
+### Informatique
+
+* [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
