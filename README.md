@@ -71,7 +71,15 @@
 
 * [qBittorrent](https://www.qbittorrent.org/) - Client open-source pour le téléchargement de torrents.
 
-### Developpement
+* [RaiDrive](https://www.raidrive.com/) - Pour accéder à des drives directement depuis un dossier sur son PC.
+
+---
+
+
+
+### Informatique
+
+#### Developpement
 
 * [PuTTY](https://www.putty.org/) - Client SSH simple et efficace.
 
@@ -90,6 +98,16 @@
 * [Sublime Text](https://www.sublimetext.com/) - Éditeur de texte / code simple et puissant.
 
 * [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
+
+
+
+#### Autre
+
+- [Sherlock Project](https://sherlock-project.github.io/) - Trouve les comptes associés à un pseudo sur un grand nombre de réseaux sociaux.
+
+- [sqlmap](http://sqlmap.org/) - Programme en ligne de commande aidant à l'injection SQL.
+
+
 
 ### Nettoyage
 
@@ -117,6 +135,7 @@
 * [FutureMe](https://www.futureme.org/) - Pour s'écrire un mail et le recevoir dans le futur.
 * [You're getting old](http://you.regettingold.com) - Pour te montrer que le temps passe vite.
 * [GEEKTyper](https://geektyper.com/) - Pour faire croire que l'on est le plus grand hacker de tout les temps.
+* [emojitracker](http://emojitracker.com/) - Affiche les emojis utilisés en temps réel dans des tweets.
 
 ### Cartes
 
@@ -162,14 +181,12 @@
 * [Internet Archive](https://archive.org/) - Permet d'archiver des pages web pour les retrouver plus tard même si les pages n'existent plus ou au contraire retrouver des pages déjà supprimmées.
 * [AlternativeTo](https://alternativeto.net/) - Pour trouver des sites ou logiciels alternatifs (trouver l'équivalent d'un logiciel payant mais gratuit par exemple).
 * [123Apps](https://123apps.com/fr/) - Petits utilitaires en ligne pour l'audio, vidéo ou encore les PDFs.
-
-
+* [FileRoom](https://fileroom.io) & [Snapdrop](https://snapdrop.net) - Clone de AirDrop pour Apple. Permet d'envoyer des fichiers à d'autres appareils sur le même wifi.
+* [CryptPad](https://cryptpad.fr/) :fr: - Outils collaboratifs à la manière de Google Drive open-source.
 
 ### Livres / Articles
 
 * [Library Genesis](http://libgen.rs/) :warning: - Accès gratuit à des articles scientifiques, livres et magazines (piratés).
-
-
 
 ### Images / Logos / Vidéos
 
@@ -177,8 +194,77 @@
 
 * [LogoSearch](https://logosear.ch) - Moteur de recherche pour logos de différents sites. Existe aussi pour les [icônes](https://iconsear.ch).
 
+* [waifu2x](http://waifu2x.udp.jp/) - Permet d'agrandir une image sans trop de perte de qualité (évite que ce soit pixelisé).
+
+* [Photopea](https://www.photopea.com/) - Un petit Photoshop-like en ligne très puissant.
+
+* [removebg](https://www.remove.bg/fr) - Permet d'enlever l'arrière plan d'une photo et le rend transparent.
+
+* [Mixkit](https://mixkit.co/) - Stock photos, vidéos, sons gratuits.
+
+### Jeux
+
+* [skribbl](https://skribbl.io/) - Une personne dessine, les autres devinent.
+* [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
+* [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
+
+### Petit pirate
+
+#### Jeux
+
+- http://www.nosteam.ro/index.php - Liens vers des jeux (de grosses franchises) et forum.
+
+
+
+#### Utilitaires
+
+- [Emkei's Mailer](https://emkei.cz/) - Mail spoofer (envoie un email avec l'adresse de son choix).
+
+---
+
 
 
 ### Informatique
 
 * [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
+
+#### Fun
+
+- [js-Z](https://kimbatt.github.io/js-Z/) - Rend le Javascript incompréhensible mais toujours fonctionnel.
+- [wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README.md) - Une liste de bizzareries en JavaScript avec explications.
+
+#### Awesome lists
+
+* [Awesome](https://github.com/sindresorhus/awesome) - La liste générale qui regroupe plein d'awesome lists.
+* [Design tools](https://github.com/goabstract/Awesome-Design-Tools) - Outils pour le design et plugins divers.
+
+#### Design
+
+* [SVG Backgrounds](https://www.svgbackgrounds.com) - Pour créer de jolis backgrounds en SVG.
+
+* [Layoutit!](https://www.layoutit.com/) - Bootstrap builder et générateur de grille CSS.
+
+* [Clippy](https://bennettfeely.com/clippy/) - Création de masques pour images en CSS.
+
+* [Super Tiny Icons](https://github.com/edent/SuperTinyIcons) - Logos connus au format .svg de petites tailles.
+
+* [CSS Gradient Animator](https://www.gradient-animator.com/) - Création d'arrières-plans avec un gradient de couleur animé en CSS.
+
+#### Documentation
+
+* [DevDocs](https://devdocs.io/) - Accès à un grand nombre de documentation à un seul endroit.
+* [Git Explorer](https://gitexplorer.com/) - Aide simple et intuitive pour les commandes Git.
+
+#### Outils
+
+- [regex101](https://regex101.com/) - Pour tester ses regexs simplement.
+- [Security Headers](https://securityheaders.com) - Permet de tester les en-têtes HTTP de son site web et analyse les potentielles failles.
+- [CyberChef](https://gchq.github.io/CyberChef/) - "Le couteau suisse de l'internet". 1001 outils d'encryption, encodage, analyse de données...
+
+
+
+#### Librairies
+
+- [D3.js](https://d3js.org/) - Librairie très complète et poussée pour manipuler des fichiers de données et les visualiser.
+
+- [html5sortable](https://lukasoppermann.github.io/html5sortable/index.html) - Listes et grilles triables utilsant le fonction drag & drop d'HTML5.
