@@ -73,6 +73,8 @@
 
 * [RaiDrive](https://www.raidrive.com/) - Pour accéder à des drives directement depuis un dossier sur son PC.
 
+* [spotDL](https://github.com/spotDL/spotify-downloader) - Télécharge les musiques de Spotify en .mp3 (ligne de commande).
+
 ---
 
 
@@ -136,6 +138,10 @@
 * [You're getting old](http://you.regettingold.com) - Pour te montrer que le temps passe vite.
 * [GEEKTyper](https://geektyper.com/) - Pour faire croire que l'on est le plus grand hacker de tout les temps.
 * [emojitracker](http://emojitracker.com/) - Affiche les emojis utilisés en temps réel dans des tweets.
+* [The Google Cemetery](https://gcemetery.co/) - Liste des projets Google abandonnés.
+* [Logoly](https://www.logoly.pro/#/) - Un générateur de logo d'un certain site noir et orange.
+* [Talk to Transformer](https://app.inferkit.com/demo) - Une AI continue une histoire toute seule, donne des résultats étonnants (en anglais).
+* [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Visage généré par AI.
 
 ### Cartes
 
@@ -146,6 +152,9 @@
 * [MAPFrappe](http://mapfrappe.com/?show=4857) - Permet de comparer la taille de distances / zones en prenant en compte la projection de Mercator.
   
   > mapfrappe.com ne fonctionne plus. Il faut utiliser un lien de la forme mapfrappe.com/?show=4857 pour accéder au service.
+- [Carte Arcep](https://cartefibre.arcep.fr) - Carte du déploiement de la fibre en France.
+
+
 
 ### DIY
 
@@ -207,6 +216,13 @@
 * [skribbl](https://skribbl.io/) - Une personne dessine, les autres devinent.
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
 * [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
+* [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
+
+
+
+### Roller Coaster
+
+- [Captain Coaster](https://captaincoaster.com/fr/) :fr: - Classement, avis et carte des montagnes russes.
 
 ### Petit pirate
 
@@ -220,6 +236,16 @@
 
 - [Emkei's Mailer](https://emkei.cz/) - Mail spoofer (envoie un email avec l'adresse de son choix).
 
+- [Tomato.to](https://tomato.to/) - Pemet de télécharger des images sans le filigrane de plusieurs sites (ShutterStock, AdobeStock...)
+
+- [You-Get](https://you-get.org/) - Outil en ligne de commande pour téléchager des médias sur n'importe quelle page web.
+
+- [Smash](https://fromsmash.com/) :fr: - Téléchargement de fichier volumineux simple, sans création de compte.
+
+- [verexif](http://www.verexif.com/en/) - Permet de voir ou suprimmer les données exif d'une photo.
+
+- [Corrupt-a-File](https://corrupt-a-file.net/) - Permet de corrompre un fichier (lorsque l'on a oublié de rendre un devoir par exemple...)
+
 ---
 
 
@@ -227,6 +253,7 @@
 ### Informatique
 
 * [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
+* [XDA Developers](https://forum.xda-developers.com/) - Forum de développement Android.
 
 #### Fun
 
@@ -237,6 +264,9 @@
 
 * [Awesome](https://github.com/sindresorhus/awesome) - La liste générale qui regroupe plein d'awesome lists.
 * [Design tools](https://github.com/goabstract/Awesome-Design-Tools) - Outils pour le design et plugins divers.
+* [Security](https://github.com/sbilly/awesome-security)
+* [Free for dev](https://free-for.dev) - Ressources gratuites pour dévelopeur.
+* [AwesomeSearch](https://awesomelists.top/#/) - Pour rechercher facilement des Awseome lists.
 
 #### Design
 
@@ -250,16 +280,22 @@
 
 * [CSS Gradient Animator](https://www.gradient-animator.com/) - Création d'arrières-plans avec un gradient de couleur animé en CSS.
 
+* [cssFilters](https://www.cssfilters.co/) - Filtres Instagram-like en CSS.
+
 #### Documentation
 
 * [DevDocs](https://devdocs.io/) - Accès à un grand nombre de documentation à un seul endroit.
 * [Git Explorer](https://gitexplorer.com/) - Aide simple et intuitive pour les commandes Git.
+* [web.dev](https://web.dev/) - Sujets et tutoriels concernant le developement web.
 
 #### Outils
 
 - [regex101](https://regex101.com/) - Pour tester ses regexs simplement.
+- [iHateRegex](https://ihateregex.io/) - Cheat sheet pour les Regexs communs.
 - [Security Headers](https://securityheaders.com) - Permet de tester les en-têtes HTTP de son site web et analyse les potentielles failles.
 - [CyberChef](https://gchq.github.io/CyberChef/) - "Le couteau suisse de l'internet". 1001 outils d'encryption, encodage, analyse de données...
+- [Weakpass](https://weakpass.com/) - Liste de mots pour attaques par Bruteforce.
+- [mockaroo](https://www.mockaroo.com/) - Génère des données pour sa BDD.
 
 
 
@@ -268,3 +304,5 @@
 - [D3.js](https://d3js.org/) - Librairie très complète et poussée pour manipuler des fichiers de données et les visualiser.
 
 - [html5sortable](https://lukasoppermann.github.io/html5sortable/index.html) - Listes et grilles triables utilsant le fonction drag & drop d'HTML5.
+
+- [Phaser](http://phaser.io/) - Librairie pour la création de jeux vidéo mobiles et PC.
