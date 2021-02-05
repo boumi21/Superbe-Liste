@@ -75,9 +75,9 @@
 
 * [spotDL](https://github.com/spotDL/spotify-downloader) - Télécharge les musiques de Spotify en .mp3 (ligne de commande).
 
+* [LosslessCut](https://github.com/mifi/lossless-cut) - Interface graphique pour ffmpeg. Permet de réaliser des actions sur une vidéo sans devoir tout réencoder.
+
 ---
-
-
 
 ### Informatique
 
@@ -101,15 +101,11 @@
 
 * [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
-
-
 #### Autre
 
 - [Sherlock Project](https://sherlock-project.github.io/) - Trouve les comptes associés à un pseudo sur un grand nombre de réseaux sociaux.
 
 - [sqlmap](http://sqlmap.org/) - Programme en ligne de commande aidant à l'injection SQL.
-
-
 
 ### Nettoyage
 
@@ -142,6 +138,13 @@
 * [Logoly](https://www.logoly.pro/#/) - Un générateur de logo d'un certain site noir et orange.
 * [Talk to Transformer](https://app.inferkit.com/demo) - Une AI continue une histoire toute seule, donne des résultats étonnants (en anglais).
 * [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Visage généré par AI.
+* [TV Chart](https://tvchart.benmiz.com/) - Graphique des notes des épisodes d'une série.
+* [China Firewall Test](http://www.chinafirewalltest.com/) - Test si un site est bloqué en Chine.
+* [iFake](https://ifaketextmessage.com/) - Création de fausses conversations iPhone.
+* [thisman](http://www.thisman.org/) - Vous avez déjà rêvé de cet homme ?
+* [My Evil Doll](https://myevildoll.com/) - Tranforme un portrait en une poupée d'Haloween.
+* [Mozilla hubs](https://hubs.mozilla.com/) - Salles virtuelles à partager entre amis style VR.
+* [Projet mentions](http://coulmont.com/bac/) :fr: - Répartition des mentions au BAC en fonction des prénoms.
 
 ### Cartes
 
@@ -152,9 +155,7 @@
 * [MAPFrappe](http://mapfrappe.com/?show=4857) - Permet de comparer la taille de distances / zones en prenant en compte la projection de Mercator.
   
   > mapfrappe.com ne fonctionne plus. Il faut utiliser un lien de la forme mapfrappe.com/?show=4857 pour accéder au service.
-- [Carte Arcep](https://cartefibre.arcep.fr) - Carte du déploiement de la fibre en France.
-
-
+- [Carte Arcep](https://cartefibre.arcep.fr) :fr: - Carte du déploiement de la fibre en France.
 
 ### DIY
 
@@ -164,6 +165,8 @@
 ### Jeux vidéos
 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Wiki du contenu inutilisé dans les jeux vidéos.
+* [Steam Database](https://steamdb.info/) - Statistiques, calculateur de compte et autres outils concernant Steam.
+* [MarioCube](https://mariocube.com/) - Drive contenant des jeux et données WII / GameCube perdus (qui étaient présents sur le store mais fermé depuis par exemple).
 
 ### Moteurs de recherche
 
@@ -209,7 +212,13 @@
 
 * [removebg](https://www.remove.bg/fr) - Permet d'enlever l'arrière plan d'une photo et le rend transparent.
 
+* [Unscreen](https://www.unscreen.com/) - Après la photo vient la vidéo. Même principe que removebg.
+
 * [Mixkit](https://mixkit.co/) - Stock photos, vidéos, sons gratuits.
+
+* [Aggie.io](https://aggie.io/) - Permet de peindre en ligne avec ses amis sur le même dessin.
+
+* [Videotang](https://video-cutter-js.com/) - Couper, convertir, tourner une vidéo directement sur internet.
 
 ### Jeux
 
@@ -217,8 +226,6 @@
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
 * [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
 * [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
-
-
 
 ### Roller Coaster
 
@@ -229,8 +236,6 @@
 #### Jeux
 
 - http://www.nosteam.ro/index.php - Liens vers des jeux (de grosses franchises) et forum.
-
-
 
 #### Utilitaires
 
@@ -248,25 +253,29 @@
 
 ---
 
-
-
 ### Informatique
 
 * [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
 * [XDA Developers](https://forum.xda-developers.com/) - Forum de développement Android.
+* [Hak5](https://shop.hak5.org/) - Hachat de matériel pour hacking / pentest.
+* [DEV&GEAR](https://devandgear.com/) - Articles techs
 
 #### Fun
 
 - [js-Z](https://kimbatt.github.io/js-Z/) - Rend le Javascript incompréhensible mais toujours fonctionnel.
 - [wtfjs](https://github.com/denysdovhan/wtfjs/blob/master/README.md) - Une liste de bizzareries en JavaScript avec explications.
+- [Delete likes from Twitter](https://gist.github.com/aymericbeaumet/d1d6799a1b765c3c8bc0b675b1a1547d) - Script pour enlever tous ses likes/favoris de Twitter.
 
 #### Awesome lists
 
 * [Awesome](https://github.com/sindresorhus/awesome) - La liste générale qui regroupe plein d'awesome lists.
 * [Design tools](https://github.com/goabstract/Awesome-Design-Tools) - Outils pour le design et plugins divers.
+* [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Le nom dit tout.
 * [Security](https://github.com/sbilly/awesome-security)
 * [Free for dev](https://free-for.dev) - Ressources gratuites pour dévelopeur.
 * [AwesomeSearch](https://awesomelists.top/#/) - Pour rechercher facilement des Awseome lists.
+* [TIL](https://github.com/jbranchaud/til) - "Today I Learned". Petites choses intéressantes sur des sujets liés à l'informatique.
+* [Public APIs](https://github.com/public-apis/public-apis) - Liste d'APIs gratuites pour utiliser dans le developement.
 
 #### Design
 
@@ -287,6 +296,8 @@
 * [DevDocs](https://devdocs.io/) - Accès à un grand nombre de documentation à un seul endroit.
 * [Git Explorer](https://gitexplorer.com/) - Aide simple et intuitive pour les commandes Git.
 * [web.dev](https://web.dev/) - Sujets et tutoriels concernant le developement web.
+* [1loc](https://1loc.dev/) - Fonctions JS en 1 ligne de code !
+* [The Algorithms](https://thealgorithms.github.io/) - Algorithmes implémentés dans différents langages.
 
 #### Outils
 
@@ -296,8 +307,6 @@
 - [CyberChef](https://gchq.github.io/CyberChef/) - "Le couteau suisse de l'internet". 1001 outils d'encryption, encodage, analyse de données...
 - [Weakpass](https://weakpass.com/) - Liste de mots pour attaques par Bruteforce.
 - [mockaroo](https://www.mockaroo.com/) - Génère des données pour sa BDD.
-
-
 
 #### Librairies
 
