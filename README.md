@@ -77,6 +77,8 @@
 
 * [LosslessCut](https://github.com/mifi/lossless-cut) - Interface graphique pour ffmpeg. Permet de réaliser des actions sur une vidéo sans devoir tout réencoder.
 
+* [Parsec](https://parsec.app/) - Alternative à [TeamViewer](https://www.teamviewer.com/fr/) pour pouvoir jouer à un jeu à plusieurs à distance par exemple.
+
 ---
 
 ### Informatique
@@ -145,6 +147,9 @@
 * [My Evil Doll](https://myevildoll.com/) - Tranforme un portrait en une poupée d'Haloween.
 * [Mozilla hubs](https://hubs.mozilla.com/) - Salles virtuelles à partager entre amis style VR.
 * [Projet mentions](http://coulmont.com/bac/) :fr: - Répartition des mentions au BAC en fonction des prénoms.
+* [nobody.live](https://nobody.live/) - Trouve un streamer au hasard n'ayant aucun spectateur sur Twitch.tv.
+* [Zoomquilt 2](http://zoomquilt2.com/) - Zoom infini sur une peinture. Hypnotisant.
+* [Melobytes](https://melobytes.com/en/) - Outils musicaux avec AI.
 
 ### Cartes
 
@@ -195,6 +200,8 @@
 * [123Apps](https://123apps.com/fr/) - Petits utilitaires en ligne pour l'audio, vidéo ou encore les PDFs.
 * [FileRoom](https://fileroom.io) & [Snapdrop](https://snapdrop.net) - Clone de AirDrop pour Apple. Permet d'envoyer des fichiers à d'autres appareils sur le même wifi.
 * [CryptPad](https://cryptpad.fr/) :fr: - Outils collaboratifs à la manière de Google Drive open-source.
+* [Instant.io](https://instant.io/) - Téléchargement de torrent sur navigateur web.
+* [Omni Calculator](https://www.omnicalculator.com/) - + de 1500 calculatrices pour tout ce qui existe.
 
 ### Livres / Articles
 
@@ -220,12 +227,19 @@
 
 * [Videotang](https://video-cutter-js.com/) - Couper, convertir, tourner une vidéo directement sur internet.
 
+* [AutoDraw](https://www.autodraw.com/) - AI qui peut aider à compléter des dessins.
+
+* [Excalidraw](https://excalidraw.com/) - Dessins et diagrames façon écriture à la main.
+
+* [PixelCraft](https://pixelcraft.web.app/) - Editeur de pixel-art en ligne.
+
 ### Jeux
 
 * [skribbl](https://skribbl.io/) - Une personne dessine, les autres devinent.
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
 * [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
 * [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
+* [fusliez notes](https://kedyn.github.io/fusliez-notes/) - Compagnon de jeu pour Among Us avec cartes, notes...
 
 ### Roller Coaster
 
@@ -291,6 +305,8 @@
 
 * [cssFilters](https://www.cssfilters.co/) - Filtres Instagram-like en CSS.
 
+* [unDraw](https://undraw.co/) - Illustrations SVG gratuites avec choix de couleur.
+
 #### Documentation
 
 * [DevDocs](https://devdocs.io/) - Accès à un grand nombre de documentation à un seul endroit.
@@ -298,6 +314,8 @@
 * [web.dev](https://web.dev/) - Sujets et tutoriels concernant le developement web.
 * [1loc](https://1loc.dev/) - Fonctions JS en 1 ligne de code !
 * [The Algorithms](https://thealgorithms.github.io/) - Algorithmes implémentés dans différents langages.
+* [OverAPI](https://overapi.com/) - Regroupement de cheat sheets.
+* [roadmap.sh](https://roadmap.sh/) - Guides pour devenir un bon dévelopeur sur différentes technologies.
 
 #### Outils
 
@@ -307,6 +325,10 @@
 - [CyberChef](https://gchq.github.io/CyberChef/) - "Le couteau suisse de l'internet". 1001 outils d'encryption, encodage, analyse de données...
 - [Weakpass](https://weakpass.com/) - Liste de mots pour attaques par Bruteforce.
 - [mockaroo](https://www.mockaroo.com/) - Génère des données pour sa BDD.
+- [ZimTools](https://zimtools.xyz/) - Aide / générateur de commandes pour Wget, Youtube-DL, Curl et autres.
+- [openbase](https://openbase.com/) - Comparateur de packages.
+- [Dev Bookmarks](https://www.bookmarks.dev/) - Organisateur de marque-pages en ligne pour dévelopeurs.
+- [OpenAI](https://openai.com/) - API d'intelligence artificielle et démo de projets l'utilisant.
 
 #### Librairies
 
