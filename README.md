@@ -5,8 +5,12 @@
 ## <u>Extensions</u>
 
 * [uBlock](https://github.com/gorhill/uBlock) - Le meilleur bloqueur de pubs / malwares pour navigateur (oui, mieux que adBlock). :fire:
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera](https://addons.opera.com/fr/extensions/details/ublock/)
 
 * [SponsorBlock](https://sponsor.ajay.app/) - Bloque les placements de produits sur Youtube, enrichit par la communauté.
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/sponsorblock/?src=external-website) - [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - [Edge](https://github.com/ajayyy/SponsorBlock/wiki/Edge) - [Opera](https://github.com/ajayyy/SponsorBlock/wiki/Opera)
 
 * [WhatFont](http://www.chengyinliu.com/whatfont.html) - Indique les polices utilisées dans une page web au survol de la souris.
 
@@ -103,11 +107,15 @@
 
 * [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
+* [Sourcetrail](https://www.sourcetrail.com/) - Explorateur de code source pour aider à comprendre les codes complexes à l'aide de graphs et autres. Prend en charge C, C++, Java et Python.
+
 #### Autre
 
 - [Sherlock Project](https://sherlock-project.github.io/) - Trouve les comptes associés à un pseudo sur un grand nombre de réseaux sociaux.
 
 - [sqlmap](http://sqlmap.org/) - Programme en ligne de commande aidant à l'injection SQL.
+
+- [espanso](https://espanso.org/) - Permet de créer des mots-clés qui lorsqu'ils sont tapés sont remplacés par une valeur. (Mieux vaut aller voir le site pour comprendre).
 
 ### Nettoyage
 
@@ -150,6 +158,8 @@
 * [nobody.live](https://nobody.live/) - Trouve un streamer au hasard n'ayant aucun spectateur sur Twitch.tv.
 * [Zoomquilt 2](http://zoomquilt2.com/) - Zoom infini sur une peinture. Hypnotisant.
 * [Melobytes](https://melobytes.com/en/) - Outils musicaux avec AI.
+* [Bayeux](https://htck.github.io/bayeux/) - Création d'images à la manière de toiles du Moyen-Age.
+* [pointerpointer](https://pointerpointer.com/) - Un site qui sait où est votre curseur.
 
 ### Cartes
 
@@ -202,6 +212,7 @@
 * [CryptPad](https://cryptpad.fr/) :fr: - Outils collaboratifs à la manière de Google Drive open-source.
 * [Instant.io](https://instant.io/) - Téléchargement de torrent sur navigateur web.
 * [Omni Calculator](https://www.omnicalculator.com/) - + de 1500 calculatrices pour tout ce qui existe.
+* [Just The Recipe](https://www.justtherecipe.app/) - Pour n'avoir que les ingrédients et étapes d'une recette.
 
 ### Livres / Articles
 
