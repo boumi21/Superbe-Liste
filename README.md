@@ -16,8 +16,6 @@
 
 * [Gesturefy](https://addons.mozilla.org/fr/firefox/addon/gesturefy/) - Permet de naviguer plus rapidement en faisant des gestes avec sa souris.
 
-* [whatruns](https://www.whatruns.com/) - Comment savoir quelles technologies utilise un site web.
-
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) - Permet de sauvegarder ses sessions et ses onglets pour plus tard.
 
 * [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - Vous en avez marre des popups qui vous demandent d'accepter les cookies ? Maintenant c'est réglé. :fire:
@@ -27,6 +25,8 @@
 * [BetterTTV](https://betterttv.com/) - Add-on pour Twitch ajoutant des fonctionnalités comme des emotes, lecture des chats supprimmés...
 
 * [Imagus](https://drive.google.com/drive/folders/0Bx8fnUCX4W2IUTNPT0s2eUFDQms) - Affiche les images en grand au survol de la souris. ([lien Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr)) ([lien Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/))
+
+* [Dark Reader](https://darkreader.org/) - Pour activer le Dark Mode sur de nombreux sites.
 
 ## <u>Applications mobiles</u>
 
@@ -160,6 +160,7 @@
 * [Melobytes](https://melobytes.com/en/) - Outils musicaux avec AI.
 * [Bayeux](https://htck.github.io/bayeux/) - Création d'images à la manière de toiles du Moyen-Age.
 * [pointerpointer](https://pointerpointer.com/) - Un site qui sait où est votre curseur.
+* [Insecam](http://www.insecam.org/) - Caméras de surveillance du monde entier.
 
 ### Cartes
 
@@ -213,6 +214,9 @@
 * [Instant.io](https://instant.io/) - Téléchargement de torrent sur navigateur web.
 * [Omni Calculator](https://www.omnicalculator.com/) - + de 1500 calculatrices pour tout ce qui existe.
 * [Just The Recipe](https://www.justtherecipe.app/) - Pour n'avoir que les ingrédients et étapes d'une recette.
+* [VirusTotal](https://www.virustotal.com/gui/home/upload) - Vérifie si un fichier contient un virus en ligne.
+* [La Carte des colocs](https://www.lacartedescolocs.fr/) - Site très bien fait pour rechercher ou proposer une colloc.
+* [DeepL](https://www.deepl.com/translator) - Traducteur avec intelligence artificielle.
 
 ### Livres / Articles
 
@@ -276,6 +280,8 @@
 
 - [Corrupt-a-File](https://corrupt-a-file.net/) - Permet de corrompre un fichier (lorsque l'on a oublié de rendre un devoir par exemple...)
 
+- [ZorexEye](http://zorexeye.com/) - Moteur de recherche pour applications, logiciels et autres.
+
 ---
 
 ### Informatique
@@ -301,6 +307,10 @@
 * [AwesomeSearch](https://awesomelists.top/#/) - Pour rechercher facilement des Awseome lists.
 * [TIL](https://github.com/jbranchaud/til) - "Today I Learned". Petites choses intéressantes sur des sujets liés à l'informatique.
 * [Public APIs](https://github.com/public-apis/public-apis) - Liste d'APIs gratuites pour utiliser dans le developement.
+* [PrivacyTools](https://www.privacytools.io/) - Logiciels et documentation pour ne pas être espionné.
+* [OSINT Framework](https://osintframework.com/) - Graphique répertoriant des outils et sites ayant pour but de récupérer toute sorte d'information.
+* [the book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - Liste générale de documentation, sites, outils.
+* [free developer resources](https://github.com/codeSTACKr/free-developer-resources) - Titre éponyme.
 
 #### Design
 
@@ -327,6 +337,7 @@
 * [The Algorithms](https://thealgorithms.github.io/) - Algorithmes implémentés dans différents langages.
 * [OverAPI](https://overapi.com/) - Regroupement de cheat sheets.
 * [roadmap.sh](https://roadmap.sh/) - Guides pour devenir un bon dévelopeur sur différentes technologies.
+* [Learn X in Y minutes](https://learnxinyminutes.com/) - Documentation synthétisée pour de nombreux langages.
 
 #### Outils
 
@@ -340,6 +351,8 @@
 - [openbase](https://openbase.com/) - Comparateur de packages.
 - [Dev Bookmarks](https://www.bookmarks.dev/) - Organisateur de marque-pages en ligne pour dévelopeurs.
 - [OpenAI](https://openai.com/) - API d'intelligence artificielle et démo de projets l'utilisant.
+- [BuiltWith](https://builtwith.com) - Savoir quelles technologies sont utilisées sur un site.
+- [surf](https://github.com/surfcodes/surf) - Permet de parcourir un projet Github comme sur Visual Studio.
 
 #### Librairies
 
