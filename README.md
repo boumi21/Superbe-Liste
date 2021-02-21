@@ -4,7 +4,9 @@
 
 ## <u>Extensions</u>
 
-* [uBlock](https://github.com/gorhill/uBlock) - Le meilleur bloqueur de pubs / malwares pour navigateur (oui, mieux que adBlock). :fire:
+Extensions pour navigateurs. Certaines extensions peuvent êtres disponibles pour d'autres navigateurs non mentionnés. Une petite recherche devrait suffire à le vérifier.
+
+* [uBlock](https://github.com/gorhill/uBlock) :fire: - Le meilleur bloqueur de pubs / malwares pour navigateur (oui, mieux que adBlock).
   
   * [Firefox](https://addons.mozilla.org/fr/firefox/addon/ublock-origin/) - [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) - [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak) - [Opera](https://addons.opera.com/fr/extensions/details/ublock/)
 
@@ -13,33 +15,51 @@
   * [Firefox](https://addons.mozilla.org/fr/firefox/addon/sponsorblock/?src=external-website) - [Chrome](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone) - [Edge](https://github.com/ajayyy/SponsorBlock/wiki/Edge) - [Opera](https://github.com/ajayyy/SponsorBlock/wiki/Opera)
 
 * [WhatFont](http://www.chengyinliu.com/whatfont.html) - Indique les polices utilisées dans une page web au survol de la souris.
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/zjm-whatfont/) - [Chrome](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm)
 
-* [Gesturefy](https://addons.mozilla.org/fr/firefox/addon/gesturefy/) - Permet de naviguer plus rapidement en faisant des gestes avec sa souris.
+* [Gesturefy](https://addons.mozilla.org/fr/firefox/addon/gesturefy/) - Permet de naviguer plus rapidement en faisant des gestes avec sa souris. (Firefox seulement)
 
 * [Tab Session Manager](https://tab-session-manager.sienori.com/) - Permet de sauvegarder ses sessions et ses onglets pour plus tard.
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/tab-session-manager/) - [Chrome](https://chrome.google.com/webstore/detail/tab-session-manager/iaiomicjabeggjcfkbimgmglanimpnae/)
 
-* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) - Vous en avez marre des popups qui vous demandent d'accepter les cookies ? Maintenant c'est réglé. :fire:
+* [I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) :fire: - Vous en avez marre des popups qui vous demandent d'accepter les cookies ? Maintenant c'est réglé.
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/i-dont-care-about-cookies/) - [Chrome](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) - [Edge](https://microsoftedge.microsoft.com/addons/detail/i-dont-care-about-cookie/oholpbloipjbbhlhohaebmieiiieioal) - [Opera](https://addons.opera.com/en/extensions/details/i-dont-care-about-cookies/) - [Pale Moon](https://addons.palemoon.org/addon/i-dont-care-about-cookies/)
 
 * [Keepa](https://keepa.com) - Tracker de prix pour Amazon. Graphique de l'évolution du prix pour chaque produit et possibilité de créer des alertes.
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/keepa/) - [Chrome](https://chrome.google.com/webstore/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo) - [Edge](https://microsoftedge.microsoft.com/addons/detail/keepa-amazon-price-trac/ejefaeioamebhekmfaclajddbpnnobje)
 
 * [BetterTTV](https://betterttv.com/) - Add-on pour Twitch ajoutant des fonctionnalités comme des emotes, lecture des chats supprimmés...
+  
+  * [Firefox](https://addons.mozilla.org/fr/firefox/addon/betterttv/) - [Chrome](https://chrome.google.com/webstore/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped) - [Edge](https://microsoftedge.microsoft.com/addons/detail/betterttv/icllegkipkooaicfmdfaloehobmglglb)
 
-* [Imagus](https://drive.google.com/drive/folders/0Bx8fnUCX4W2IUTNPT0s2eUFDQms) - Affiche les images en grand au survol de la souris. ([lien Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr)) ([lien Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/))
+* [Imagus](https://drive.google.com/drive/folders/0Bx8fnUCX4W2IUTNPT0s2eUFDQms) - Affiche les images en grand au survol de la souris.
+  
+  *  [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr) - [Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/)
 
 * [Dark Reader](https://darkreader.org/) - Pour activer le Dark Mode sur de nombreux sites.
+  
+  * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - [Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
+
+## 
 
 ## <u>Applications mobiles</u>
 
+Toutes les applications citées sont disponibles pour Android. Si vous possédez un autre système d'exploitation, vous pouvez toujours faire une recherche.
+
 * [Shazam](https://www.shazam.com/fr) - Reconnaît une musique en quelques secondes en l'écoutant.
 
-* [Youtube Vanced](https://vancedapp.com/) - Youtube mais en mieux. </br>
-  Pas de pub, possibilité de lire les vidéos l'écran éteint ou en fond, intégration de SponsorBlock et plus. :fire:
+* [Youtube Vanced](https://vancedapp.com/) :fire: - Youtube mais en mieux. </br>
+  Pas de pub, possibilité de lire les vidéos l'écran éteint ou en fond, intégration de SponsorBlock et plus.
 
-> #### @icon-info-circle Information concernant Youtube Vanced
+> #### :large_blue_circle: Information concernant Youtube Vanced
 > 
 > Youtube Vanced se télécharge et se met à jour grâce à [Vanced Manager](https://vancedapp.com/) (car l'application n'est pas disponible sur le Play Store). Vanced Manager contient également une version modifiée de Youtube Music.
 
-* [AdGuard](https://adguard.com/fr/adguard-android/overview.html) - Meilleur bloqueur de pubs pour Android. Bloque les pubs dans les navigateurs et également dans les applications (Achat d'une licence nécessaire pour bloquer les pubs dans les applications mais vraiment ça change la vie). :fire:
+* [AdGuard](https://adguard.com/fr/adguard-android/overview.html) :fire: - Meilleur bloqueur de pubs pour Android. Bloque les pubs dans les navigateurs et également dans les applications (Achat d'une licence nécessaire pour bloquer les pubs dans les applications mais vraiment ça change la vie). 
 
 * [fooView](http://www.fooview.com/) - Ajoute un petit icône sur l'écran qui permet d'éxécuter des tâches (lancer des applications, prendre des screenshots, filmer son écran...)
 
@@ -49,13 +69,50 @@
 
 * [OsmAnd](https://osmand.net/) - Application complète de cartes et navigation hors-ligne et open-source.
 
+
+
 ## <u>Logiciels</u>
 
-* [KeePassXC](https://keepassxc.org/) - Portage du gestionnaire de mots de passe open-source complet [KeePass](https://keepass.info/). A utiliser avec [l'extension de navigateur](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration) pour remplir automatiquement les identifiants.
+Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez un autre système d'exploitation, un petit tour sur le site officiel ou une recherche devrait vous aider.
+
+### Productivité
+
+* [Everything](https://www.voidtools.com/) :fire: - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est. Peut être complété par [EverythingToolbar](https://github.com/stnkl/EverythingToolbar) pour les utilisateurs avancés.
+
+* [KeePassXC](https://keepassxc.org/) :fire: - Portage du gestionnaire de mots de passe open-source complet [KeePass](https://keepass.info/). A utiliser avec [l'extension de navigateur](https://keepassxc.org/docs/KeePassXC_GettingStarted.html#_setup_browser_integration) pour remplir automatiquement les identifiants.
+
+* [Ditto](https://ditto-cp.sourceforge.io/) :fire: - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard.
+
+* [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
+
+
+
+### Utilitaires
 
 * [SD Memory Card Formater](https://www.sdcard.org/downloads/formatter/) - Formatte des cartes SD correcetement lorsque celui de Windows fait des siennes.
 
-* [Everything](https://www.voidtools.com/) - Permet de rechercher des fichiers, dossiers, images... dans son ordinateur rapidement quand on ne sait plus où c'est. :fire:
+* [7-Zip](https://www.7-zip.fr/) :fire: - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10).
+
+
+
+### Nettoyage
+
+* [AdwCleaner](https://fr.malwarebytes.com/adwcleaner/) :fire: - Enlève les malwares et les programmes indésirables.
+
+* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner](https://www.ccleaner.com/fr-fr/ccleaner/download) mais moins "usine à gaz".
+
+* [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
+
+
+
+### Image / Vidéo
+
+* [GIMP](https://www.gimp.org/downloads/) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
+* [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
+
+
+
+### Autre
 
 * [TeamViewer](https://www.teamviewer.com/fr/) - Accès à un ordinateur à distance (pour aider quelqu'un par exemple).
 
@@ -65,17 +122,11 @@
 
 * [Audacity](https://audacity.fr/) - Logiciel d'édition audio open-source (oui, celui qu'il y avait dans ton collège).
 
-* [Ditto](https://ditto-cp.sourceforge.io/) - Sauvegarde ce qu'on copie-colle pour le réutiliser plus tard. :fire:
-
-* [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
-
-* [7-Zip](https://www.7-zip.fr/) - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10). :fire:
-
-* [VLC](https://www.videolan.org/vlc/index.fr.html) - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français :fr:. :fire:
+* [VLC](https://www.videolan.org/vlc/index.fr.html) :fr:. :fire: - Lecteur vidéo open-source qui peut lire n'importe quoi, gratuitement, et en plus c'est Français
 
 * [qBittorrent](https://www.qbittorrent.org/) - Client open-source pour le téléchargement de torrents.
 
-* [RaiDrive](https://www.raidrive.com/) - Pour accéder à des drives directement depuis un dossier sur son PC.
+* [RaiDrive](https://www.raidrive.com/) - Pour accéder à ses clouds directement depuis un dossier sur son PC.
 
 * [spotDL](https://github.com/spotDL/spotify-downloader) - Télécharge les musiques de Spotify en .mp3 (ligne de commande).
 
@@ -83,29 +134,19 @@
 
 * [Parsec](https://parsec.app/) - Alternative à [TeamViewer](https://www.teamviewer.com/fr/) pour pouvoir jouer à un jeu à plusieurs à distance par exemple.
 
----
+### 
 
 ### Informatique
 
 #### Developpement
 
-* [PuTTY](https://www.putty.org/) - Client SSH simple et efficace.
-
 * [Mark Text](https://marktext.app/) - Éditeur Markdown épuré et complet (je l'utilise pour créer ce document :wink:)
-
-* [Pencil](https://pencil.evolus.vn/) - Logiciel open-source de création de maquettes et mockups.
 
 * [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
 
 * [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain. :fire:
 
-* [ngrok](https://ngrok.com/) - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
-
-* [FileZilla](https://filezilla-project.org/) - Lociel FTP open-source.
-
 * [Sublime Text](https://www.sublimetext.com/) - Éditeur de texte / code simple et puissant.
-
-* [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
 * [Sourcetrail](https://www.sourcetrail.com/) - Explorateur de code source pour aider à comprendre les codes complexes à l'aide de graphs et autres. Prend en charge C, C++, Java et Python.
 
@@ -117,18 +158,19 @@
 
 - [espanso](https://espanso.org/) - Permet de créer des mots-clés qui lorsqu'ils sont tapés sont remplacés par une valeur. (Mieux vaut aller voir le site pour comprendre).
 
-### Nettoyage
+- [PuTTY](https://www.putty.org/) - Client SSH simple et efficace.
 
-* [AdwCleaner](https://fr.malwarebytes.com/adwcleaner/) - Enlève les malwares et les programmes indésirables.
+- [Pencil](https://pencil.evolus.vn/) - Logiciel open-source de création de maquettes et mockups.
 
-* [BleachBit](https://www.bleachbit.org/) - Logiciel open-source pour nettoyer et gagner de l'espace libre sur son PC. C'est équivalent à [CCleaner](https://www.ccleaner.com/fr-fr/ccleaner/download) mais moins "usine à gaz".
+- [ngrok](https://ngrok.com/) - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
 
-* [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
+- [FileZilla](https://filezilla-project.org/) - Lociel FTP open-source.
 
-### Image / Vidéo
+- [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
-* [GIMP](https://www.gimp.org/downloads/) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
-* [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
+
+
+
 
 ## <u>Sites web</u>
 
