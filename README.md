@@ -144,7 +144,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
 
-* [Visual Studio Code](https://code.visualstudio.com/) - Probablement le meilleur éditeur de code tout terrain. :fire:
+* [Visual Studio Code](https://code.visualstudio.com/) :fire: - Probablement le meilleur éditeur de code tout terrain.
 
 * [Sublime Text](https://www.sublimetext.com/) - Éditeur de texte / code simple et puissant.
 
@@ -162,7 +162,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [Pencil](https://pencil.evolus.vn/) - Logiciel open-source de création de maquettes et mockups.
 
-- [ngrok](https://ngrok.com/) - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
+- [ngrok](https://ngrok.com/) :fire: - Créer un tunnel direct vers son localhost. Pratique pour partager une appli en développement (ou son serveur Minecraft :yum:).
 
 - [FileZilla](https://filezilla-project.org/) - Lociel FTP open-source.
 
@@ -182,14 +182,14 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Bomb Blast](https://outrider.org/nuclear-weapons/interactive/bomb-blast) - Que se passe t'il si une bombe nucléaire expose où j'habite ?
 * [Listen to Wikipedia](http://listen.hatnote.com/) - Permet de visualiser les changements sur Wikipedia de manière intéressante.
 * [Windows 93](http://www.windows93.net) - Un Windows ... différent.
-* [FutureMe](https://www.futureme.org/) - Pour s'écrire un mail et le recevoir dans le futur.
+* [FutureMe](https://www.futureme.org/) :fire: - Pour s'écrire un mail et le recevoir dans le futur.
 * [You're getting old](http://you.regettingold.com) - Pour te montrer que le temps passe vite.
 * [GEEKTyper](https://geektyper.com/) - Pour faire croire que l'on est le plus grand hacker de tout les temps.
 * [emojitracker](http://emojitracker.com/) - Affiche les emojis utilisés en temps réel dans des tweets.
 * [The Google Cemetery](https://gcemetery.co/) - Liste des projets Google abandonnés.
 * [Logoly](https://www.logoly.pro/#/) - Un générateur de logo d'un certain site noir et orange.
 * [Talk to Transformer](https://app.inferkit.com/demo) - Une AI continue une histoire toute seule, donne des résultats étonnants (en anglais).
-* [This Person Does Not Exist](https://thispersondoesnotexist.com/) - Visage généré par AI.
+* [This Person Does Not Exist](https://thispersondoesnotexist.com/) :fire: - Visage généré par AI.
 * [TV Chart](https://tvchart.benmiz.com/) - Graphique des notes des épisodes d'une série.
 * [China Firewall Test](http://www.chinafirewalltest.com/) - Test si un site est bloqué en Chine.
 * [iFake](https://ifaketextmessage.com/) - Création de fausses conversations iPhone.
@@ -200,7 +200,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [nobody.live](https://nobody.live/) - Trouve un streamer au hasard n'ayant aucun spectateur sur Twitch.tv.
 * [Zoomquilt 2](http://zoomquilt2.com/) - Zoom infini sur une peinture. Hypnotisant.
 * [Melobytes](https://melobytes.com/en/) - Outils musicaux avec AI.
-* [Bayeux](https://htck.github.io/bayeux/) - Création d'images à la manière de toiles du Moyen-Age.
+* [Bayeux](https://htck.github.io/bayeux/) :fr: - Création d'images à la manière de toiles du Moyen-Age.
 * [pointerpointer](https://pointerpointer.com/) - Un site qui sait où est votre curseur.
 * [Insecam](http://www.insecam.org/) - Caméras de surveillance du monde entier.
 
@@ -210,9 +210,9 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [Windy](https://www.windy.com) - Carte des vents et météo très agréable.
 
-* [MAPFrappe](http://mapfrappe.com/?show=4857) - Permet de comparer la taille de distances / zones en prenant en compte la projection de Mercator.
+* [MAPFrappe](http://mapfrappe.com/?show=4857) - Permet de comparer la taille / distances de zones en prenant en compte la projection de Mercator.
   
-  > mapfrappe.com ne fonctionne plus. Il faut utiliser un lien de la forme mapfrappe.com/?show=4857 pour accéder au service.
+  > :large_blue_circle: mapfrappe.com ne fonctionne plus. Il faut utiliser un lien de la forme mapfrappe.com/?show=4857 pour accéder au service.
 - [Carte Arcep](https://cartefibre.arcep.fr) :fr: - Carte du déploiement de la fibre en France.
 
 ### DIY
@@ -220,17 +220,13 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [instructables](https://www.instructables.com/)- Communauté de projets DIY à explorer.
 * [Wonder How To](https://www.wonderhowto.com/) -  Tutoriels pour gadgets / informatique / science / crochetage...
 
-### Jeux vidéos
 
-* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Wiki du contenu inutilisé dans les jeux vidéos.
-* [Steam Database](https://steamdb.info/) - Statistiques, calculateur de compte et autres outils concernant Steam.
-* [MarioCube](https://mariocube.com/) - Drive contenant des jeux et données WII / GameCube perdus (qui étaient présents sur le store mais fermé depuis par exemple).
 
 ### Moteurs de recherche
 
 * [TinEye](https://tineye.com/) - Recherche par image (alternative à [Google Images](https://www.google.com/imghp?hl=FR)).
 * [WolframAlpha](https://www.wolframalpha.com/) - Moteur de recherche avec de l'intelligence artificielle.
-* [Mémoire des Hommes](https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/recherche_transversale/bases_nominatives.php) - Recherche dans les bases nominatives de l'armée Française. Permet de retrouver des informations sur des soldats décédés durant les guerres.
+* [Mémoire des Hommes](https://www.memoiredeshommes.sga.defense.gouv.fr/fr/arkotheque/client/mdh/recherche_transversale/bases_nominatives.php)  :fire: :fr: - Recherche dans les bases nominatives de l'armée Française. Permet de retrouver des informations sur des soldats décédés durant les guerres.
 * [L'argus](https://www.largus.fr/cote/immatriculation/) - Retrouve le modèle d'une voiture avec son immatriculation.
 
 ### Musique
@@ -238,35 +234,52 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [mobygratis](https://mobygratis.com/) - Musique gratuite à utiliser dans des films mise à disposition par [Moby](https://fr.wikipedia.org/wiki/Moby)
 * [Music-Map](https://www.music-map.com/) - Trouve les artistes similaires à ceux qu'on aime. Fait parti du projet [GNOD](https://www.gnod.com/) qui peut faire découvrir de l'art ou encore des films.
 * [Radiooooo](https://radiooooo.com/) - Pour découvrir de la musique de différents pays et de différentes époques à l'aide d'une carte.
-* [Radio Garden](http://radio.garden) - Permet d'écouter des radios du monde entier à l'aide d'une carte.
+* [Radio Garden](http://radio.garden) :fire: - Permet d'écouter des radios du monde entier à l'aide d'une carte.
 * [Every Noise](http://everynoise.com/) - Pour parcourir tous les styles de musique.
 
 ### Sécurité
 
-* [Have I Been Pwned](https://haveibeenpwned.com/) - Vérifie si des informations confidentielles liées à votre adresse email ont été compromies. Si c'est le cas, il est préférable de changer les mots de passe que vous utilisez sur les sites avec l'adresse email correspondante.
+* [Have I Been Pwned](https://haveibeenpwned.com/) :fire: - Vérifie si des informations confidentielles liées à votre adresse email ont été compromies. Si c'est le cas, il est préférable de changer les mots de passe que vous utilisez sur les sites avec l'adresse email correspondante.
 
 ### Utilitaires
 
 * [Cloud Convert](https://cloudconvert.com/) - Converti un type de fichier dans un autre type.
-* [Internet Archive](https://archive.org/) - Permet d'archiver des pages web pour les retrouver plus tard même si les pages n'existent plus ou au contraire retrouver des pages déjà supprimmées.
+
+* [Internet Archive](https://archive.org/) :fire: - Permet d'archiver des pages web pour les retrouver plus tard même si les pages n'existent plus ou au contraire retrouver des pages déjà supprimmées.
+
 * [AlternativeTo](https://alternativeto.net/) - Pour trouver des sites ou logiciels alternatifs (trouver l'équivalent d'un logiciel payant mais gratuit par exemple).
+
 * [123Apps](https://123apps.com/fr/) - Petits utilitaires en ligne pour l'audio, vidéo ou encore les PDFs.
+
 * [FileRoom](https://fileroom.io) & [Snapdrop](https://snapdrop.net) - Clone de AirDrop pour Apple. Permet d'envoyer des fichiers à d'autres appareils sur le même wifi.
+
 * [CryptPad](https://cryptpad.fr/) :fr: - Outils collaboratifs à la manière de Google Drive open-source.
+
 * [Instant.io](https://instant.io/) - Téléchargement de torrent sur navigateur web.
+
 * [Omni Calculator](https://www.omnicalculator.com/) - + de 1500 calculatrices pour tout ce qui existe.
+
 * [Just The Recipe](https://www.justtherecipe.app/) - Pour n'avoir que les ingrédients et étapes d'une recette.
+
 * [VirusTotal](https://www.virustotal.com/gui/home/upload) - Vérifie si un fichier contient un virus en ligne.
-* [La Carte des colocs](https://www.lacartedescolocs.fr/) - Site très bien fait pour rechercher ou proposer une colloc.
+
+* [La Carte des colocs](https://www.lacartedescolocs.fr/) :fr: - Site très bien fait pour rechercher ou proposer une colloc.
+
 * [DeepL](https://www.deepl.com/translator) - Traducteur avec intelligence artificielle.
+
+* [Smash](https://fromsmash.com/) :fr: :fire: - Téléchargement de fichier volumineux simple, sans création de compte.
+
+* [verexif](http://www.verexif.com/en/) - Permet de voir ou suprimmer les données exif d'une photo.
+
+* [Corrupt-a-File](https://corrupt-a-file.net/) - Permet de corrompre un fichier (lorsque l'on a oublié de rendre un devoir par exemple...)
 
 ### Livres / Articles
 
-* [Library Genesis](http://libgen.rs/) :warning: - Accès gratuit à des articles scientifiques, livres et magazines (piratés).
+* [Library Genesis](http://libgen.rs/) :warning: - Accès gratuit à des articles scientifiques, livres et magazines.
 
 ### Images / Logos / Vidéos
 
-* [PhotoMosh](https://photomosh.com/) - Pour appliquer des effets "glitch" rapidement.
+* [PhotoMosh](https://photomosh.com/) :fire: - Pour appliquer des effets "glitch" rapidement.
 
 * [LogoSearch](https://logosear.ch) - Moteur de recherche pour logos de différents sites. Existe aussi pour les [icônes](https://iconsear.ch).
 
@@ -274,7 +287,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [Photopea](https://www.photopea.com/) - Un petit Photoshop-like en ligne très puissant.
 
-* [removebg](https://www.remove.bg/fr) - Permet d'enlever l'arrière plan d'une photo et le rend transparent.
+* [removebg](https://www.remove.bg/fr) :fire: - Permet d'enlever l'arrière plan d'une photo et le rend transparent.
 
 * [Unscreen](https://www.unscreen.com/) - Après la photo vient la vidéo. Même principe que removebg.
 
@@ -294,17 +307,27 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [skribbl](https://skribbl.io/) - Une personne dessine, les autres devinent.
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
-* [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
 * [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
+
+### Jeux vidéos
+
+* [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Wiki du contenu inutilisé dans les jeux vidéos.
+* [Steam Database](https://steamdb.info/) - Statistiques, calculateur de compte et autres outils concernant Steam.
+* [MarioCube](https://mariocube.com/) - Drive contenant des jeux et données WII / GameCube perdus (qui étaient présents sur le store mais fermé depuis par exemple).
 * [fusliez notes](https://kedyn.github.io/fusliez-notes/) - Compagnon de jeu pour Among Us avec cartes, notes...
+* [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
 
 ### Roller Coaster
 
 - [Captain Coaster](https://captaincoaster.com/fr/) :fr: - Classement, avis et carte des montagnes russes.
+- [rcdb](https://rcdb.com/) - Base de données sur les montagnes russes.
+- [Coasters World](https://forum.coastersworld.fr) :fr: - Forum sur les montagnes russes et parcs d'attractions.
 
-### Petit pirate
+### 
 
-#### Jeux
+### Petit pirate :warning:
+
+#### Jeux vidéos
 
 - http://www.nosteam.ro/index.php - Liens vers des jeux (de grosses franchises) et forum.
 
@@ -312,26 +335,15 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [Emkei's Mailer](https://emkei.cz/) - Mail spoofer (envoie un email avec l'adresse de son choix).
 
-- [Tomato.to](https://tomato.to/) - Pemet de télécharger des images sans le filigrane de plusieurs sites (ShutterStock, AdobeStock...)
-
-- [You-Get](https://you-get.org/) - Outil en ligne de commande pour téléchager des médias sur n'importe quelle page web.
-
-- [Smash](https://fromsmash.com/) :fr: - Téléchargement de fichier volumineux simple, sans création de compte.
-
-- [verexif](http://www.verexif.com/en/) - Permet de voir ou suprimmer les données exif d'une photo.
-
-- [Corrupt-a-File](https://corrupt-a-file.net/) - Permet de corrompre un fichier (lorsque l'on a oublié de rendre un devoir par exemple...)
+- [Tomato.to](https://tomato.to/) :fire: - Pemet de télécharger des images sans le filigrane de plusieurs sites (ShutterStock, AdobeStock...)
 
 - [ZorexEye](http://zorexeye.com/) - Moteur de recherche pour applications, logiciels et autres.
+
+- [Illegal Services](https://github.com/Illegal-Services/Illegal_Services) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
 
 ---
 
 ### Informatique
-
-* [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
-* [XDA Developers](https://forum.xda-developers.com/) - Forum de développement Android.
-* [Hak5](https://shop.hak5.org/) - Hachat de matériel pour hacking / pentest.
-* [DEV&GEAR](https://devandgear.com/) - Articles techs
 
 #### Fun
 
@@ -341,12 +353,12 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 #### Awesome lists
 
-* [Awesome](https://github.com/sindresorhus/awesome) - La liste générale qui regroupe plein d'awesome lists.
+* [Awesome](https://github.com/sindresorhus/awesome) :fire: - La liste générale qui regroupe plein d'awesome lists.
 * [Design tools](https://github.com/goabstract/Awesome-Design-Tools) - Outils pour le design et plugins divers.
 * [design resources for developers](https://github.com/bradtraversy/design-resources-for-developers) - Le nom dit tout.
 * [Security](https://github.com/sbilly/awesome-security)
 * [Free for dev](https://free-for.dev) - Ressources gratuites pour dévelopeur.
-* [AwesomeSearch](https://awesomelists.top/#/) - Pour rechercher facilement des Awseome lists.
+* [AwesomeSearch](https://awesomelists.top/#/) - Pour rechercher facilement des Awesome lists.
 * [TIL](https://github.com/jbranchaud/til) - "Today I Learned". Petites choses intéressantes sur des sujets liés à l'informatique.
 * [Public APIs](https://github.com/public-apis/public-apis) - Liste d'APIs gratuites pour utiliser dans le developement.
 * [PrivacyTools](https://www.privacytools.io/) - Logiciels et documentation pour ne pas être espionné.
@@ -395,6 +407,20 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [OpenAI](https://openai.com/) - API d'intelligence artificielle et démo de projets l'utilisant.
 - [BuiltWith](https://builtwith.com) - Savoir quelles technologies sont utilisées sur un site.
 - [surf](https://github.com/surfcodes/surf) - Permet de parcourir un projet Github comme sur Visual Studio.
+- [You-Get](https://you-get.org/) - Outil en ligne de commande pour téléchager des médias sur n'importe quelle page web.
+- [youtube-dl](https://youtube-dl.org/) :fire: - Outil en ligne de commande pour télécharger des vidéos de Youtube et de dizaines d'autres sites.
+
+
+
+#### Autre
+
+* [Weboasis](https://weboas.is/) - Caverne d'Ali Baba avec des outils et des liens pour tout et n'importe-quoi, plutôt orienté informatique. C'est de là que je trouve beaucoup de liens présents sur cette page.
+
+* [XDA Developers](https://forum.xda-developers.com/) - Forum de développement Android.
+
+* [Hak5](https://shop.hak5.org/) - Hachat de matériel pour hacking / pentest.
+
+* [DEV&GEAR](https://devandgear.com/) - Articles techs
 
 #### Librairies
 
