@@ -1,6 +1,6 @@
 # Superbe-Liste
 
-:dash: Liste de logiciels, applications mobiles, extensions et sites internet qui peuvent être intéressants que je recommande personnellement.
+:dash: Liste de logiciels, applications mobiles, extensions et sites internet qui peuvent être intéressants et que je recommande personnellement.
 
 
 
@@ -52,7 +52,7 @@ Extensions pour navigateurs. Certaines extensions peuvent êtres disponibles pou
   
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/darkreader/) - [Chrome](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh) - [Edge](https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc)
 
-## 
+</br>
 
 ## <u>Applications mobiles</u>
 
