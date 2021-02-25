@@ -77,7 +77,7 @@ Toutes les applications citées sont disponibles pour Android. Si vous possédez
 
 * [OsmAnd](https://osmand.net/) - Application complète de cartes et navigation hors-ligne et open-source.
 
-
+</br>
 
 ## <u>Logiciels</u>
 
@@ -167,6 +167,8 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [FileZilla](https://filezilla-project.org/) - Lociel FTP open-source.
 
 - [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
+
+</br>
 
 ## <u>Sites web</u>
 
@@ -335,7 +337,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [Illegal Services](https://github.com/Illegal-Services/Illegal_Services) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
 
----
+</br>
 
 ### Informatique
 
