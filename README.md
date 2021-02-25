@@ -48,7 +48,7 @@
 
 ---
 
-
+## <u>Extensions</u>
 
 Extensions pour navigateurs. Certaines extensions peuvent êtres disponibles pour d'autres navigateurs non mentionnés. Une petite recherche devrait suffire à le vérifier.
 
