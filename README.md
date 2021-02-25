@@ -8,7 +8,7 @@
 
 ---
 
-## Tables des matières
+## Table des matières
 
 - [<u>Extensions</u>](#extensions)
 - [<u>Applications mobiles</u>](#applications-mobiles)
@@ -21,7 +21,7 @@
   - [Informatique](#informatique)
     - [Developpement](#developpement)
     - [Autre](#autre-1)
-- [<u>Sites web</u>](#usites-webu)
+- [<u>Sites web</u>](#sites-web)
   - [Fun](#fun)
   - [Cartes](#cartes)
   - [DIY](#diy)
