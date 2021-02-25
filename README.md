@@ -2,15 +2,53 @@
 
 :dash: Liste de logiciels, applications mobiles, extensions et sites internet qui peuvent être intéressants et que je recommande personnellement.
 
-
-
 :fire: | Ressource que je recommande tout particulièrement.
 
 :warning: | Ressource pouvant contenir des liens à contenu illégal.
 
 ---
 
-## <u>Extensions</u>
+## Tables des matières
+
+- [<u>Extensions</u>](#uextensionsu)
+- [<u>Applications mobiles</u>](#uapplications-mobilesu)
+- [<u>Logiciels</u>](#ulogicielsu)
+  - [Productivité](#productivité)
+  - [Utilitaires](#utilitaires)
+  - [Nettoyage](#nettoyage)
+  - [Image / Vidéo](#image--vidéo)
+  - [Autre](#autre)
+  - [Informatique](#informatique)
+    - [Developpement](#developpement)
+    - [Autre](#autre-1)
+- [<u>Sites web</u>](#usites-webu)
+  - [Fun](#fun)
+  - [Cartes](#cartes)
+  - [DIY](#diy)
+  - [Moteurs de recherche](#moteurs-de-recherche)
+  - [Musique](#musique)
+  - [Sécurité](#sécurité)
+  - [Utilitaires](#utilitaires-1)
+  - [Livres / Articles](#livres--articles)
+  - [Images / Logos / Vidéos](#images--logos--vidéos)
+  - [Jeux](#jeux)
+  - [Jeux vidéos](#jeux-vidéos)
+  - [Roller Coaster](#roller-coaster)
+  - [Petit pirate :warning:](#petit-pirate-warning)
+    - [Jeux vidéos](#jeux-vidéos-1)
+    - [Utilitaires](#utilitaires-2)
+  - [Informatique](#informatique-1)
+    - [Fun](#fun-1)
+    - [Awesome lists](#awesome-lists)
+    - [Design](#design)
+    - [Documentation](#documentation)
+    - [Outils](#outils)
+    - [Autre](#autre-2)
+    - [Librairies](#librairies)
+
+---
+
+
 
 Extensions pour navigateurs. Certaines extensions peuvent êtres disponibles pour d'autres navigateurs non mentionnés. Une petite recherche devrait suffire à le vérifier.
 
@@ -134,7 +172,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [Parsec](https://parsec.app/) - Alternative à [TeamViewer](https://www.teamviewer.com/fr/) pour pouvoir jouer à un jeu à plusieurs à distance par exemple.
 
-### 
+</br>
 
 ### Informatique
 
@@ -319,7 +357,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [rcdb](https://rcdb.com/) - Base de données sur les montagnes russes.
 - [Coasters World](https://forum.coastersworld.fr) :fr: - Forum sur les montagnes russes et parcs d'attractions.
 
-### 
+</br>
 
 ### Petit pirate :warning:
 
