@@ -1,5 +1,13 @@
 # Superbe-Liste
 
+:dash: Liste de logiciels, applications mobiles, extensions et sites internet qui peuvent être intéressants que je recommande personnellement.
+
+
+
+:fire: | Ressource que je recommande tout particulièrement.
+
+:warning: | Ressource pouvant contenir des liens à contenu illégal.
+
 ---
 
 ## <u>Extensions</u>
@@ -38,7 +46,7 @@ Extensions pour navigateurs. Certaines extensions peuvent êtres disponibles pou
 
 * [Imagus](https://drive.google.com/drive/folders/0Bx8fnUCX4W2IUTNPT0s2eUFDQms) - Affiche les images en grand au survol de la souris.
   
-  *  [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr) - [Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/)
+  * [Chrome](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=fr) - [Firefox](https://addons.mozilla.org/fr/firefox/addon/imagus/)
 
 * [Dark Reader](https://darkreader.org/) - Pour activer le Dark Mode sur de nombreux sites.
   
@@ -85,15 +93,11 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) - Plusieurs outils qui améliorent la productivité sur Windows (Organisateur de fenêtres, programmation de raccourcis, recherche rapide...)
 
-
-
 ### Utilitaires
 
 * [SD Memory Card Formater](https://www.sdcard.org/downloads/formatter/) - Formatte des cartes SD correcetement lorsque celui de Windows fait des siennes.
 
 * [7-Zip](https://www.7-zip.fr/) :fire: - Logiciel open-source pour de l'archivage (compression) pour remplacer [WinRAR](https://www.win-rar.com/start.html?&L=10).
-
-
 
 ### Nettoyage
 
@@ -103,14 +107,10 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [WinDirStat](https://windirstat.net/) - Permet de voir ce qui prend de la place dans son ordinateur sous la forme de petits blocs.
 
-
-
 ### Image / Vidéo
 
 * [GIMP](https://www.gimp.org/downloads/) - Éditeur photo open-source qui remplace très bien Photoshop pour la plupart des besoins.
 * [Inkscape](https://inkscape.org/fr) - Outil de dessin vectoriel open-source (pour les .svg).
-
-
 
 ### Autre
 
@@ -168,10 +168,6 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701?activetab=pivot:overviewtab) - Terminal puissant qui regroupe les applications en ligne de commande avec plusieurs onglets, moteur de rendu accéléré par GPU...
 
-
-
-
-
 ## <u>Sites web</u>
 
 ### Fun
@@ -219,8 +215,6 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [instructables](https://www.instructables.com/)- Communauté de projets DIY à explorer.
 * [Wonder How To](https://www.wonderhowto.com/) -  Tutoriels pour gadgets / informatique / science / crochetage...
-
-
 
 ### Moteurs de recherche
 
@@ -409,8 +403,6 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [surf](https://github.com/surfcodes/surf) - Permet de parcourir un projet Github comme sur Visual Studio.
 - [You-Get](https://you-get.org/) - Outil en ligne de commande pour téléchager des médias sur n'importe quelle page web.
 - [youtube-dl](https://youtube-dl.org/) :fire: - Outil en ligne de commande pour télécharger des vidéos de Youtube et de dizaines d'autres sites.
-
-
 
 #### Autre
 
