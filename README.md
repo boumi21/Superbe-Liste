@@ -10,9 +10,9 @@
 
 ## Tables des matières
 
-- [<u>Extensions</u>](#uextensionsu)
-- [<u>Applications mobiles</u>](#uapplications-mobilesu)
-- [<u>Logiciels</u>](#ulogicielsu)
+- [<u>Extensions</u>](#extensions)
+- [<u>Applications mobiles</u>](#applications-mobiles)
+- [<u>Logiciels</u>](#logiciels)
   - [Productivité](#productivité)
   - [Utilitaires](#utilitaires)
   - [Nettoyage](#nettoyage)
