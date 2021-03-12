@@ -239,6 +239,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Bayeux](https://htck.github.io/bayeux/) :fr: - Création d'images à la manière de toiles du Moyen-Age.
 * [pointerpointer](https://pointerpointer.com/) - Un site qui sait où est votre curseur.
 * [Insecam](http://www.insecam.org/) - Caméras de surveillance du monde entier.
+* [Library of Babel](https://libraryofbabel.info/) - N'importe quelle suite de charactères se trouve dans cette bibliothèque. A découvrir.
 
 ### Cartes
 
@@ -356,6 +357,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [Captain Coaster](https://captaincoaster.com/fr/) :fr: - Classement, avis et carte des montagnes russes.
 - [rcdb](https://rcdb.com/) - Base de données sur les montagnes russes.
 - [Coasters World](https://forum.coastersworld.fr) :fr: - Forum sur les montagnes russes et parcs d'attractions.
+- [Coaster Count](https://fr.coaster-count.com/) - Pour enegistrer la liste des coasters ridés.
 
 </br>
 
@@ -373,7 +375,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [ZorexEye](http://zorexeye.com/) - Moteur de recherche pour applications, logiciels et autres.
 
-- [Illegal Services](https://github.com/Illegal-Services/Illegal_Services) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
+- [Illegal Services](https://gitlab.com/Illegal-Services/Illegal_Services/) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
 
 </br>
 
@@ -453,6 +455,8 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Hak5](https://shop.hak5.org/) - Hachat de matériel pour hacking / pentest.
 
 * [DEV&GEAR](https://devandgear.com/) - Articles techs
+
+* [sebsauvage.net](https://sebsauvage.net/) - "Site d'un internaute qui travaille dans l'informatique". Des liens, des explications, des astuces...
 
 #### Librairies
 
