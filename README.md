@@ -10,41 +10,43 @@
 
 ## Table des matières
 
-- [<u>Extensions</u>](#extensions)
-- [<u>Applications mobiles</u>](#applications-mobiles)
-- [<u>Logiciels</u>](#logiciels)
-  - [Productivité](#productivité)
-  - [Utilitaires](#utilitaires)
-  - [Nettoyage](#nettoyage)
-  - [Image / Vidéo](#image--vidéo)
-  - [Autre](#autre)
-  - [Informatique](#informatique)
-    - [Developpement](#developpement)
-    - [Autre](#autre-1)
-- [<u>Sites web</u>](#sites-web)
-  - [Fun](#fun)
-  - [Cartes](#cartes)
-  - [DIY](#diy)
-  - [Moteurs de recherche](#moteurs-de-recherche)
-  - [Musique](#musique)
-  - [Sécurité](#sécurité)
-  - [Utilitaires](#utilitaires-1)
-  - [Livres / Articles](#livres--articles)
-  - [Images / Logos / Vidéos](#images--logos--vidéos)
-  - [Jeux](#jeux)
-  - [Jeux vidéos](#jeux-vidéos)
-  - [Roller Coaster](#roller-coaster)
-  - [Petit pirate :warning:](#petit-pirate-warning)
-    - [Jeux vidéos](#jeux-vidéos-1)
-    - [Utilitaires](#utilitaires-2)
-  - [Informatique](#informatique-1)
-    - [Fun](#fun-1)
-    - [Awesome lists](#awesome-lists)
-    - [Design](#design)
-    - [Documentation](#documentation)
-    - [Outils](#outils)
-    - [Autre](#autre-2)
-    - [Librairies](#librairies)
+- [Superbe-Liste](#superbe-liste)
+  - [Table des matières](#table-des-matières)
+  - [<u>Extensions</u>](#uextensionsu)
+  - [<u>Applications mobiles</u>](#uapplications-mobilesu)
+  - [<u>Logiciels</u>](#ulogicielsu)
+    - [Productivité](#productivité)
+    - [Utilitaires](#utilitaires)
+    - [Nettoyage](#nettoyage)
+    - [Image / Vidéo](#image--vidéo)
+    - [Autre](#autre)
+    - [Informatique](#informatique)
+      - [Developpement](#developpement)
+      - [Autre](#autre-1)
+  - [<u>Sites web</u>](#usites-webu)
+    - [Fun](#fun)
+    - [Cartes](#cartes)
+    - [DIY](#diy)
+    - [Moteurs de recherche](#moteurs-de-recherche)
+    - [Musique](#musique)
+    - [Sécurité](#sécurité)
+    - [Utilitaires](#utilitaires-1)
+    - [Livres / Articles](#livres--articles)
+    - [Images / Logos / Vidéos](#images--logos--vidéos)
+    - [Jeux](#jeux)
+    - [Jeux vidéos](#jeux-vidéos)
+    - [Roller Coaster](#roller-coaster)
+    - [Petit pirate :warning:](#petit-pirate-warning)
+      - [Jeux vidéos](#jeux-vidéos-1)
+      - [Utilitaires](#utilitaires-2)
+    - [Informatique](#informatique-1)
+      - [Fun](#fun-1)
+      - [Awesome lists](#awesome-lists)
+      - [Design](#design)
+      - [Documentation](#documentation)
+      - [Outils](#outils)
+      - [Autre](#autre-2)
+      - [Librairies](#librairies)
 
 ---
 
@@ -343,14 +345,16 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [skribbl](https://skribbl.io/) - Une personne dessine, les autres devinent.
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
 * [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
+* [FRVR](https://frvr.com/) & [GameSnacks](https://gamesnacks.com/embed/) - Petits jeux en ligne qui fonctionnent également sur mobile. Sympa pour faire une petite pause.
 
 ### Jeux vidéos
 
 * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor) - Wiki du contenu inutilisé dans les jeux vidéos.
 * [Steam Database](https://steamdb.info/) - Statistiques, calculateur de compte et autres outils concernant Steam.
+* [TwitchTracker](https://twitchtracker.com) - Nombreuses statistiques concernant Twitch.
 * [MarioCube](https://mariocube.com/) - Drive contenant des jeux et données WII / GameCube perdus (qui étaient présents sur le store mais fermé depuis par exemple).
 * [fusliez notes](https://kedyn.github.io/fusliez-notes/) - Compagnon de jeu pour Among Us avec cartes, notes...
-* [My Abandonware](https://www.myabandonware.com/) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
+* [My Abandonware](https://www.myabandonware.com/) & [Abandonware France](https://www.abandonware-france.org/index.php) - Téléchargement gratuit de jeux "abandonnés" de 1978 à 2010.
 
 ### Roller Coaster
 
@@ -375,7 +379,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 - [ZorexEye](http://zorexeye.com/) - Moteur de recherche pour applications, logiciels et autres.
 
-- [Illegal Services](https://gitlab.com/Illegal-Services/Illegal_Services/) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
+- [Illegal Services](https://t.co/GWH4ch8q23?amp=1) :fire: - Outil en ligne de commande répertoriant des sites de téléchargements, IPTV, torrents et autres. Mis à jour régulièrement avec des liens Français et Anglais.
 
 </br>
 
