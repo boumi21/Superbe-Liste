@@ -1,3 +1,4 @@
+
 # Superbe-Liste
 
 :dash: Liste de logiciels, applications mobiles, extensions et sites internet qui peuvent être intéressants et que je recommande personnellement.
@@ -180,8 +181,6 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 #### Developpement
 
-* [Mark Text](https://marktext.app/) - Éditeur Markdown épuré et complet (je l'utilise pour créer ce document :wink:)
-
 * [Github Desktop](https://desktop.github.com/) - Alors oui la ligne de commande c'est sympa mais une interface graphique c'est bien pratique aussi.
 
 * [Visual Studio Code](https://code.visualstudio.com/) :fire: - Probablement le meilleur éditeur de code tout terrain.
@@ -242,10 +241,13 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [pointerpointer](https://pointerpointer.com/) - Un site qui sait où est votre curseur.
 * [Insecam](http://www.insecam.org/) - Caméras de surveillance du monde entier.
 * [Library of Babel](https://libraryofbabel.info/) - N'importe quelle suite de charactères se trouve dans cette bibliothèque. A découvrir.
+* [Stumbled](https://stumbled.cc) - Pour découvrir des sites intéressant en cliquant sur un bouton.
+* [ShadyURL](http://www.shadyurl.com/) - Créer un alias d'URL très suspect.
 
 ### Cartes
 
 * [My Maps](https://www.google.com/maps/d/?hl=fr) - Créer des circuits, points d'intérêt avec Google Map.
+* [gpx.studio](https://gpx.studio/) - Pour créer et visualiser des traces GPS.
 
 * [Windy](https://www.windy.com) - Carte des vents et météo très agréable.
 
@@ -273,6 +275,8 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Radiooooo](https://radiooooo.com/) - Pour découvrir de la musique de différents pays et de différentes époques à l'aide d'une carte.
 * [Radio Garden](http://radio.garden) :fire: - Permet d'écouter des radios du monde entier à l'aide d'une carte.
 * [Every Noise](http://everynoise.com/) - Pour parcourir tous les styles de musique.
+* [Timelineify](https://www.timelineify.com/) - Génère des playlists Spotify avec tous les morceaux d'un artiste par ordre chronologique.
+* [Ishkur's Guide to Electronic Music](https://music.ishkur.com) - Guide visuel sur les différents types de musique électronique.
 
 ### Sécurité
 
@@ -304,7 +308,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 
 * [DeepL](https://www.deepl.com/translator) - Traducteur avec intelligence artificielle.
 
-* [Smash](https://fromsmash.com/) :fr: :fire: - Téléchargement de fichier volumineux simple, sans création de compte.
+* [Smash](https://fromsmash.com/) :fr: :fire: - Téléchargement de fichier volumineux simple, sans création de compte. [Wormhole](https://wormhole.app) est très bon aussi.
 
 * [verexif](http://www.verexif.com/en/) - Permet de voir ou suprimmer les données exif d'une photo.
 
@@ -346,6 +350,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Isotopium](https://www.isotopium.com/) - Jeux d'un autre genre où on contrôle un vrai tank téléguidé dans un Tchernobyl reconstitué (payant).
 * [Krunker](https://krunker.io/) - FPS CS:GO-like directement dans le navigateur ou disponible sur Steam.
 * [FRVR](https://frvr.com/) & [GameSnacks](https://gamesnacks.com/embed/) - Petits jeux en ligne qui fonctionnent également sur mobile. Sympa pour faire une petite pause.
+* [TETR.IO](https://tetr.io/) - Tetris en ligne multijoueur.
 
 ### Jeux vidéos
 
@@ -434,7 +439,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Documentation synthétisée pour de nombreux langages.
 
 #### Outils
-
+- [StackEdit](https://stackedit.io) - Éditeur Markdown complet dans le navigateur (je l'utilise pour créer ce document :wink:)
 - [regex101](https://regex101.com/) - Pour tester ses regexs simplement.
 - [iHateRegex](https://ihateregex.io/) - Cheat sheet pour les Regexs communs.
 - [Security Headers](https://securityheaders.com) - Permet de tester les en-têtes HTTP de son site web et analyse les potentielles failles.
@@ -449,6 +454,7 @@ Les logiciels présentés sont tous disponibles pour Windows. Si vous utilisez u
 - [surf](https://github.com/surfcodes/surf) - Permet de parcourir un projet Github comme sur Visual Studio.
 - [You-Get](https://you-get.org/) - Outil en ligne de commande pour téléchager des médias sur n'importe quelle page web.
 - [youtube-dl](https://youtube-dl.org/) :fire: - Outil en ligne de commande pour télécharger des vidéos de Youtube et de dizaines d'autres sites.
+- [Search Engine Party](https://searchengine.party/) - Tableaux comparatifs des moteurs de recherche concerant la vie privée.
 
 #### Autre
 
